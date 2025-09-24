@@ -1,0 +1,12 @@
+# Proyek Keranjang Belanja
+
+Latihan JavaScript:
+- Array sederhana (`keranjang`)
+- Array of objects (`produk`)
+- Fungsi tambahProduk, hitungTotal
+- Struktur kontrol if-else dan switch
+
+## Cara Menjalankan
+1. Clone/download repository.
+2. Buka `index.html` di browser.
+3. Buka **Console** (F12 → Console) untuk melihat output.
